@@ -1,0 +1,9 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\bin\Debug\u4_Proje2.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\obj\Debug\u4_Proje2.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\obj\Debug\u4_Proje2.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\obj\Debug\u4_Proje2.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\obj\Debug\u4_Proje2.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\bin\Debug\u4_Proje2.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\bin\Debug\u4_Proje2.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\obj\Debug\u4_Proje2.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\2.AY\Hafta8\Kurs_18Ocak2019\u4_Proje2\u4_Proje2\obj\Debug\u4_Proje2.pdb
